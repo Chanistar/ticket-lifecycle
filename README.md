@@ -6,9 +6,7 @@
 This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
 
 
-<h2>Video Demonstration</h2>
 
-- ### [YouTube: How to create, work, and resolves tickets within osTicket](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
@@ -30,25 +28,49 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+
+  ![create tickets](https://github.com/user-attachments/assets/6cd3d79a-fa14-4107-9c48-857343e70c24)
+
+
+Ken created a ticket because his employees could'nt access the Online banking portal.
+
+
+
+
+![observing ticket (2)](https://github.com/user-attachments/assets/7cbbd9f7-08ba-4501-80f4-47e8bddee64f)
+
+
+
+... Observing the ticket and assigning SLA.
+
+
+
+
+![observing ticket3](https://github.com/user-attachments/assets/8c594616-0d1f-4e6c-9904-3c67c890f0aa)
+
+
+
+Then it was assigned to Jane Doe from the Online Banking Team.
+
+
+
+
+![ticket resolved](https://github.com/user-attachments/assets/fd866b7c-8608-4833-8bf5-445fbd25b877)
+
+
+
+
+
+
+  ![close ticket2](https://github.com/user-attachments/assets/ab478a31-5259-4d41-892f-a1a84d2a86f9)
+
+
+  Jane then discovered that the problem was due to recent updates, fixed the problem, and closed the ticket.
+                      
+  Good job, Jane;)
+
+
+
 <br />
