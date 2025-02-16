@@ -34,7 +34,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
   ![create tickets](https://github.com/user-attachments/assets/6cd3d79a-fa14-4107-9c48-857343e70c24)
 
 
-Ken created a ticket because his employees could'nt access the Online banking portal.
+Ken created a ticket because his employees couldn't access the Online banking portal.
 
 
 
@@ -52,7 +52,7 @@ Ken created a ticket because his employees could'nt access the Online banking po
 
 
 
-Then it was assigned to Jane Doe from the Online Banking Team.
+Then, it was assigned to Jane Doe from the Online Banking Team.
 
 
 
